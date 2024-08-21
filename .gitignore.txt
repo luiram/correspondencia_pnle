@@ -1,0 +1,4 @@
+# Ignorar todos los archivos docx y xlsx de la principal y de las subcarpetas
+
+**/*.docx
+**/*.xlsx
